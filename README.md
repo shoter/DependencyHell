@@ -8,4 +8,4 @@ Summary:
 
 - We want to use 4.1.1.3 version of System.Net.Http by using Nuget package.
 - Visual Studio 'thinks' that we are using 4.2.0
-- As the end result we end up with 4.0.0.0 (depends on the computer)
+- As the end result we end up with 4.0.0.0 (depends on the installed .net framework version)
