@@ -1,6 +1,6 @@
 # DependencyHell
 
-[Blog post](http://damian.laczak.net.pl/blog/2019/01/30/dependency-hell/)
+[Blog post](http://damian.laczak.net.pl/blog/?dep_hell)
 
 The project here demonstrates how weird is .NET Framework looking for references of system packages. 
 
